@@ -1,0 +1,437 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* ----------- iPad mini ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+		div.header {
+			padding-left: 5%;
+		}
+
+		p2 {
+				letter-spacing: 0px;
+				font-size: 10px;
+				font-family: MyriadPro;
+				font-weight: 400;
+				text-decoration: none;
+				color: rgb(220,220,220);
+		}
+
+		a.footer {
+				letter-spacing: 0px;
+				font-size: 10px;
+				font-family: MyriadPro;
+				font-weight: 400;
+				text-decoration: none;
+				color: white;
+		}
+
+		.footTable {
+				width: 90%;
+				height: 30%;
+				border-spacing: 0;
+				margin-top: 0.5%;
+				margin-bottom: 0.3%;
+		}
+
+		table.central-Table {
+				width: 90%;
+		}
+
+		table.popupMsg {
+				width: 90%;
+		}
+
+		div.floatImg {
+				width: 15%;
+				position: relative;
+				margin: auto 20px auto auto;
+		}
+}
+
+/* ----------- iPad 1 and 2 ----------- */
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+		div.header {
+			padding-left: 5%;
+		}
+
+		p2 {
+				letter-spacing: 0px;
+				font-size: 10px;
+				font-family: MyriadPro;
+				font-weight: 400;
+				text-decoration: none;
+				color: rgb(220,220,220);
+		}
+
+		a.footer {
+				letter-spacing: 0px;
+				font-size: 10px;
+				font-family: MyriadPro;
+				font-weight: 400;
+				text-decoration: none;
+				color: white;
+		}
+
+		.footTable {
+				width: 90%;
+				height: 30%;
+				border-spacing: 0;
+				margin-top: 0.5%;
+				margin-bottom: 0.3%;
+		}
+
+		table.central-Table {
+				width: 90%;
+		}
+
+		table.popupMsg {
+				width: 90%;
+		}
+
+		div.floatImg {
+				width: 15%;
+				position: relative;
+				margin: auto 20px auto auto;
+		}
+}
+
+/* ----------- iPad 3 and 4 ----------- */
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 768px)
+  and (max-device-width: 1024px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+		div.header {
+			padding-left: 5%;
+		}
+
+		p2 {
+				letter-spacing: 0px;
+				font-size: 10px;
+				font-family: MyriadPro;
+				font-weight: 400;
+				text-decoration: none;
+				color: rgb(220,220,220);
+		}
+
+		a.footer {
+				letter-spacing: 0px;
+				font-size: 10px;
+				font-family: MyriadPro;
+				font-weight: 400;
+				text-decoration: none;
+				color: white;
+		}
+
+		.footTable {
+				width: 90%;
+				height: 30%;
+				border-spacing: 0;
+				margin-top: 0.5%;
+				margin-bottom: 0.3%;
+		}
+
+		table.central-Table {
+				width: 90%;
+		}
+
+		table.popupMsg {
+				width: 90%;
+		}
+
+		div.floatImg {
+				width: 15%;
+				position: relative;
+				margin: auto 20px auto auto;
+		}
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3) {
+
+		div.header {
+			padding-left: 0px;
+		}
+
+		p1 {
+			font-size: 30px;
+		}
+
+		p2 {
+				letter-spacing: 0px;
+				font-size: 12px;
+				font-family: MyriadPro;
+				font-weight: 400;
+				text-decoration: none;
+				color: rgb(220,220,220);
+		}
+
+		a.footer {
+				letter-spacing: 0px;
+				font-size: 12px;
+				font-family: MyriadPro;
+				font-weight: 400;
+				text-decoration: none;
+				color: white;
+		}
+
+		table.footTable {
+				width: 80%;
+				height: 20%;
+				border-spacing: 0;
+				margin-top: 20px;
+				margin-bottom: auto;
+		}
+
+		table.central-Table {
+				width: 100%;
+		}
+
+		table.popupMsg {
+				width: 100%;
+				padding-left: 25px;
+				padding-right: 25px;
+		}
+
+		p {
+				font-size: 30px;
+		}
+
+		h2 {
+				font-size: 35px;
+		}
+
+		div.floatImg {
+				width: 15%;
+				position: relative;
+				margin: auto 20px auto auto;
+		}
+}
+
+/* ----------- iPhone 6 ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px) {
+	div.header {
+		padding-left: 0px;
+	}
+
+	p1 {
+		font-size: 30px;
+	}
+
+	p2 {
+			letter-spacing: 0px;
+			font-size: 12px;
+			font-family: MyriadPro;
+			font-weight: 400;
+			text-decoration: none;
+			color: rgb(220,220,220);
+	}
+
+  #header ul a {
+    font-size: 16px;
+  }
+
+	a.footer {
+			letter-spacing: 0px;
+			font-size: 12px;
+			font-family: MyriadPro;
+			font-weight: 400;
+			text-decoration: none;
+			color: white;
+	}
+
+	table.footTable {
+			width: 80%;
+			height: 20%;
+			border-spacing: 0;
+			margin-top: 20px;
+			margin-bottom: auto;
+	}
+
+	table.central-Table {
+			width: 100%;
+	}
+
+	table.popupMsg {
+			width: 100%;
+			padding-left: 25px;
+			padding-right: 25px;
+	}
+
+	p {
+			font-size: 20px !important;
+	}
+
+	h2 {
+			font-size: 35px;
+	}
+
+	div.floatImg {
+			width: 15%;
+			position: relative;
+			margin: auto 20px auto auto;
+	}
+}
+
+/* ----------- iPhone 5, 5s ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px) {
+	div.header {
+		padding-left: 0px;
+	}
+
+	p1 {
+		font-size: 30px;
+	}
+
+	p2 {
+			letter-spacing: 0px;
+			font-size: 11px;
+			font-family: MyriadPro;
+			font-weight: 400;
+			text-decoration: none;
+			color: rgb(220,220,220);
+	}
+
+	a.footer {
+			letter-spacing: 0px;
+			font-size: 11px;
+			font-family: MyriadPro;
+			font-weight: 400;
+			text-decoration: none;
+			color: white;
+	}
+
+	table.footTable {
+			width: 95%;
+			height: 20%;
+			border-spacing: 0;
+			margin-top: 20px;
+			margin-bottom: auto;
+	}
+
+	table.central-Table {
+			width: 100%;
+	}
+
+	table.popupMsg {
+			width: 100%;
+			padding-left: 25px;
+			padding-right: 25px;
+	}
+
+  p {
+      font-size: 18px !important;
+  }
+
+	h2 {
+			font-size: 35px;
+	}
+
+  h3 {
+      font-size: 20px;
+  }
+
+  #header ul a {
+    font-size: 16px;
+  }
+
+	div.floatImg {
+			width: 15%;
+			position: relative;
+			margin: auto 20px auto auto;
+	}
+}
+
+/* ----------- iPhone 2G - 4s ----------- */
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+	div.header {
+		padding-left: 0px;
+	}
+
+  body {
+  	background-image: url(../../images/bg-m.jpg);
+  }
+
+	p1 {
+		font-size: 30px;
+	}
+
+	p2 {
+			letter-spacing: 0px;
+			font-size: 12px;
+			font-family: MyriadPro;
+			font-weight: 400;
+			text-decoration: none;
+			color: rgb(220,220,220);
+	}
+
+	a.footer {
+			letter-spacing: 0px;
+			font-size: 12px;
+			font-family: MyriadPro;
+			font-weight: 400;
+			text-decoration: none;
+			color: white;
+	}
+
+	table.footTable {
+			width: 80%;
+			height: 20%;
+			border-spacing: 0;
+			margin-top: 20px;
+			margin-bottom: auto;
+	}
+
+	table.central-Table {
+			width: 100%;
+	}
+
+	table.popupMsg {
+			width: 100%;
+			padding-left: 25px;
+			padding-right: 25px;
+	}
+
+	p {
+			font-size: 30px;
+	}
+
+	h2 {
+			font-size: 35px;
+	}
+
+	div.floatImg {
+			width: 15%;
+			position: relative;
+			margin: auto 20px auto auto;
+	}
+}
